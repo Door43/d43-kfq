@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kfq:home|Door43 (kfq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kfq|d43-kfq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kfq/archive/master.zip|d43-kfq.zip]]
+
+**Recent Changes**
+{{changes>ns = kfq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kfq|Ethnologue data]]
+
